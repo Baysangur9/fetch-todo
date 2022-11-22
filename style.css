@@ -1,0 +1,31 @@
+body{
+    width: 100%;
+    height: 100%;
+}
+
+.container{
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    border: 7px solid rgb(rgb(160, 7, 7), rgb(10, 57, 10), rgb(66, 66, 75));
+    background-color: rgb(66, 66, 75);
+    color: rgb(141,4,144)
+}
+
+
+.text{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+p{
+    display: contents;
+}
+
+btn_Add{
+    text-align: right
+}
+
+
